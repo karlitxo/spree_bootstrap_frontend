@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib', 'frontend/lib', 'core/lib']
   s.requirements << 'none'
 
-  s.add_runtime_dependency 'sass-rails', '~> 4.0'
+  s.add_runtime_dependency 'sass-rails', '~> 5.0'
   s.add_runtime_dependency 'bootstrap-sass', '~> 3.3.5.1'
   s.add_runtime_dependency 'bootstrap-kaminari-views', '~> 0.0.3'
 
